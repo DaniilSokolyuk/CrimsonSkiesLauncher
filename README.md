@@ -1,9 +1,9 @@
-# CrimsonSkiesLauncher
+# Crimson Skies Launcher
 Специальный лаунчер для игры Crimson Skies который фиксит русские шрифты в игре
 
 # Как использовать
 1. [Как запустить Crimson Skies на современном компьютере](#pookie)
-3. Скачать лаунчер
+3. [Скачать лаунчер](https://github.com/DaniilSokolyuk/CrimsonSkiesLauncher/releases/download/1/Launcher.zip)
 4. Поместить папку Launcher в папку с игрой, 
 5. Запусктить CrimsonLauncher.exe в папке Launcher (например C:\Program Files (x86)\Crimson Skies\Launcher\CrimsonLauncher.exe)
 
