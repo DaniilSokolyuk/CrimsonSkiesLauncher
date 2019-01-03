@@ -6,7 +6,7 @@
 
 Если у вас ошибка 0xc0000022 то способ её решения описан [здесь](https://support.gog.com/hc/ru/articles/115003398269) 
 
-# Как использовать
+# Как использовать лаунчер
 1. [Выполнить инструкцию "Как запустить Crimson Skies на современном компьютере"](#run)
 3. [Скачать лаунчер](https://github.com/DaniilSokolyuk/CrimsonSkiesLauncher/releases/download/1/Launcher.zip)
 4. Поместить папку Launcher в папку с игрой, 
