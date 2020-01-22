@@ -2,7 +2,7 @@
 Специальный лаунчер для игры Crimson Skies который фиксит русские шрифты в игре
 
 # <a name="run"></a> Как запустить Crimson Skies на современном компьютере
-Лучший способ запуска под любое разрешение и без глюков описан [здесь](http://www.wsgf.org/dr/crimson-skies/en) в Solution 1, отлично работает на переводе от 8бит
+Лучший способ запуска под любое разрешение и без глюков описан [здесь](http://www.wsgf.org/dr/crimson-skies/en) или [здесь](https://community.pcgamingwiki.com/files/file/1425-crimson-skies-fix-for-widescreen-ultrawide-and-multi-mon/) в Solution 1, отлично работает на переводе от 8бит
 
 Если у вас ошибка 0xc0000022 то способ её решения описан [здесь](https://support.gog.com/hc/ru/articles/115003398269) 
 
