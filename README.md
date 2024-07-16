@@ -16,6 +16,8 @@
 4. Поместить папку Launcher в папку с игрой, 
 5. Запустить CrimsonLauncher.exe в папке Launcher (например C:\Program Files (x86)\Crimson Skies\Launcher\CrimsonLauncher.exe)
 
+* Если лаунчре не запускает игру, откройте свойства файла crimson.exe, перейдите на вкладвку совместимость и включите "Использовать разрешение экрана 640x480"
+
 # Как это работает
 Выполняется внедрение специального кода в процесс игры, код выполняет перехват системной функции [CreateFontIndirectA](https://docs.microsoft.com/en-us/windows/desktop/api/wingdi/nf-wingdi-createfontindirecta) и изменяет параметр lfCharSet для поддержки русского языка
 
