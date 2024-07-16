@@ -17,7 +17,7 @@ namespace CrimsonLauncher
             string targetExe = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).FullName, "crimson.exe");
 
 #if DEBUG
-            targetExe = "C:\\Program Files (x86)\\Crimson Skies\\crimson.exe";
+            targetExe = "C:\\Users\\Danox\\Desktop\\CS\\CrimsonSkies\\crimson.exe";
 #endif
 
             // Will contain the name of the IPC server channel
